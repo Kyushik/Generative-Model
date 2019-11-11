@@ -17,6 +17,7 @@ This repository is for implementation of `Generative Models` using [Tensorflow](
 9. [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (CycleGAN)](https://arxiv.org/abs/1703.10593)
 10. [Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation (StarGAN)](https://arxiv.org/abs/1711.09020)
 11. [Attention-Guided Generative Adversarial Networks for Unsupervised Image-to-Image Translation (AGGAN)](https://arxiv.org/abs/1903.12296)
+12. [Neural Discrete Representation Learning(VQ-VAE)](https://arxiv.org/abs/1711.00937)
 
 
 
