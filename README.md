@@ -18,6 +18,7 @@ This repository is for implementation of `Generative Models` using [Tensorflow](
 10. [Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation (StarGAN)](https://arxiv.org/abs/1711.09020)
 11. [Attention-Guided Generative Adversarial Networks for Unsupervised Image-to-Image Translation (AGGAN)](https://arxiv.org/abs/1903.12296)
 12. [Neural Discrete Representation Learning(VQ-VAE)](https://arxiv.org/abs/1711.00937)
+13. [ Adherent Raindrop Removal with Self-Supervised Attention Maps andSpatio-Temporal Generative Adversarial Networks](http://openaccess.thecvf.com/content_ICCVW_2019/papers/ADW/Alletto_Adherent_Raindrop_Removal_with_Self-Supervised_Attention_Maps_and_Spatio-Temporal_Generative_ICCVW_2019_paper.pdf)
 
 
 
