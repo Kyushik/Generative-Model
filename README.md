@@ -22,3 +22,4 @@ This repository is for implementation of `Generative Models` using [Tensorflow](
 
 14. [beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/forum?id=Sy2fzU9gl)
 
+15. [HoloGAN: Unsupervised Learning of 3D Representations From Natural Images](https://arxiv.org/abs/1904.01326)
