@@ -6,7 +6,7 @@ This repository is for implementation of `Generative Models` using [Tensorflow](
 
 The structure of the code is based on the [Hwalsuk Lee's Generative Model github repository](https://github.com/hwalsuklee/tensorflow-generative-model-collections)  
 
-
+<br>
 
 ## Contributors
 
@@ -14,7 +14,7 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 
 - [Kyushik Min](https://github.com/Kyushik), [Gihoon Kim](https://github.com/GihoonKim), [Hyukju Sohn](https://github.com/Hyukju-Sohn), [Yoonyong Ahn](https://github.com/YoonyongAhn), [Seungwon-Choi](https://github.com/seungwon-Choi), [Jongyoon Baek](https://github.com/whd2345)
 
-
+<br>
 
 ## Implemented Paper List
 
@@ -36,7 +36,7 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 
 15. [HoloGAN: Unsupervised Learning of 3D Representations From Natural Images](https://arxiv.org/abs/1904.01326)
 
-
+<br>
 
 ## GAN Results
 
@@ -46,7 +46,7 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 
 <img src="./image/GAN_MNIST.png" width="400">
 
-
+<br>
 
 ### 2. DCGAN
 
@@ -54,7 +54,7 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 | :---------------------------------------------: | :----------------------------------------------: |
 | <img src="./image/DCGAN_MNIST.png" width="500"> | <img src="./image/DCGAN_CelebA.png" width="500"> |
 
-
+<br>
 
 ### 3. LSGAN
 
@@ -62,7 +62,7 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 | :---------------------------------------------: | :----------------------------------------------: |
 | <img src="./image/LSGAN_MNIST.png" width="500"> | <img src="./image/LSGAN_CelebA.png" width="500"> |
 
-
+<br>
 
 ### 4. WGAN
 
@@ -70,7 +70,7 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 | :--------------------------------------------: | :---------------------------------------------: |
 | <img src="./image/WGAN_MNIST.png" width="500"> | <img src="./image/WGAN_CelebA.png" width="500"> |
 
-
+<br>
 
 ### 5. WGAN-GP
 
@@ -78,7 +78,7 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 | :-----------------------------------------------: | :------------------------------------------------: |
 | <img src="./image/WGAN-GP_MNIST.png" width="500"> | <img src="./image/WGAN-GP_CelebA.png" width="500"> |
 
-
+<br>
 
 ### 6. Conditional GAN
 
@@ -86,11 +86,15 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 
 <img src="./image/ConditionalGAN_MNIST.png" width="400">
 
+<br>
+
 ### 7. InfoGAN
 
 **MNIST**
 
 <img src="./image/InfoGAN_MNIST.png" width="400">
+
+<br>
 
 ### 8. HoloGAN
 
@@ -98,7 +102,7 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 
 <img src="./image/HoloGAN_CelebA.png" width="800">
 
-
+<br>
 
 ## Image-to-Image Translation Results
 
@@ -112,7 +116,7 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 | :------------------------------------------------------: | -------------------------------------------------------- |
 | <img src="./image/CycleGAN_Horse2Zebra.png" width="400"> | <img src="./image/CycleGAN_Zebra2Horse.png" width="400"> |
 
-
+<br>
 
 ### 2. AGGAN
 
@@ -120,13 +124,15 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 | :---------------------------------------------------: | :---------------------------------------------------: |
 | <img src="./image/AGGAN_Horse2Zebra.png" width="400"> | <img src="./image/AGGAN_Zebra2Horse.png" width="400"> |
 
-
+<br>
 
 ### 3. StarGAN
 
 **CelebA**
 
 <img src="./image/StarGAN_CelebA.png" width="800">
+
+<br>
 
 ## VAE Results
 
@@ -150,7 +156,7 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 
 <img src="./image/VAE_Latent_CelebA.png" width="800">
 
-
+<br>
 
 ### 2. Beta-VAE
 
@@ -164,7 +170,7 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 
 <img src="./image/betaVAE_200.png" width="800">
 
-
+<br>
 
 ### 3. VQ-VAE
 
@@ -190,7 +196,7 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 | :-----------------------------------------------------: | :------------------------------------------------------: |
 | <img src="./image/VQ-VAE_Decode_MNIST.png" width="400"> | <img src="./image/VQ-VAE_Decode_CelebA.png" width="400"> |
 
-
+<br>
 
 ## Application Results
 
