@@ -32,15 +32,15 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 
 ## GAN Results
 
-#### 1. GAN
+### 1. GAN
 
 **MNIST**
 
-<img src="./image/GAN_MNIST.png" width="350">
+<img src="./image/GAN_MNIST.png" width="400">
 
 
 
-#### 2. DCGAN
+### 2. DCGAN
 
 |                      MNIST                      |                      CelebA                      |
 | :---------------------------------------------: | :----------------------------------------------: |
@@ -48,61 +48,61 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 
 
 
-#### 3. LSGAN
+### 3. LSGAN
 
 
 
-#### 4. WGAN
+### 4. WGAN
 
 
 
-#### 5. WGAN-GP
+### 5. WGAN-GP
 
 
 
-#### 6. Conditional GAN
+### 6. Conditional GAN
 
 
 
-#### 7. InfoGAN
+### 7. InfoGAN
 
 
 
-#### 8. HoloGAN
+### 8. HoloGAN
 
 
 
 ## Image-to-Image Translation Results
 
-#### 1. CycleGAN
+### 1. CycleGAN
 
 
 
-#### 2. StarGAN
+### 2. StarGAN
 
 
 
-#### 3. AGGAN
+### 3. AGGAN
 
 
 
 ## VAE Results
 
-#### 1. VAE
+### 1. VAE
 
 
 
-#### 2. Beta-VAE
+### 2. Beta-VAE
 
 
 
-#### 3. VQ-VAE
+### 3. VQ-VAE
 
 
 
 ## Application Results
 
-#### 1. Raindrop Removal
+### 1. Raindrop Removal
 
 
 
