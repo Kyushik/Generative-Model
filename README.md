@@ -50,25 +50,45 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 
 ### 3. LSGAN
 
+|                      MNIST                      |                      CelebA                      |
+| :---------------------------------------------: | :----------------------------------------------: |
+| <img src="./image/LSGAN_MNIST.png" width="500"> | <img src="./image/LSGAN_CelebA.png" width="500"> |
+
 
 
 ### 4. WGAN
+
+|                     MNIST                      |                     CelebA                      |
+| :--------------------------------------------: | :---------------------------------------------: |
+| <img src="./image/WGAN_MNIST.png" width="500"> | <img src="./image/WGAN_CelebA.png" width="500"> |
 
 
 
 ### 5. WGAN-GP
 
+|                       MNIST                       |                       CelebA                       |
+| :-----------------------------------------------: | :------------------------------------------------: |
+| <img src="./image/WGAN-GP_MNIST.png" width="500"> | <img src="./image/WGAN-GP_CelebA.png" width="500"> |
+
 
 
 ### 6. Conditional GAN
 
+**MNIST**
 
+<img src="./image/ConditionalGAN_MNIST.png" width="400">
 
 ### 7. InfoGAN
 
+**MNIST**
 
+<img src="./image/InfoGAN_MNIST.png" width="400">
 
 ### 8. HoloGAN
+
+**CelebA**
+
+<img src="./image/HoloGAN_CelebA.png" width="800">
 
 
 
@@ -76,27 +96,91 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 
 ### 1. CycleGAN
 
+|                      Monet to Photo                      |                      Photo to Monet                      |
+| :------------------------------------------------------: | :------------------------------------------------------: |
+| <img src="./image/CycleGAN_Monet2Photo.png" width="400"> | <img src="./image/CycleGAN_Photo2Monet.png" width="400"> |
+
+|                      Horse to Zebra                      | Zebra to Horse                                           |
+| :------------------------------------------------------: | -------------------------------------------------------- |
+| <img src="./image/CycleGAN_Horse2Zebra.png" width="400"> | <img src="./image/CycleGAN_Zebra2Horse.png" width="400"> |
 
 
-### 2. StarGAN
+
+### 2. AGGAN
+
+|                    Horse to Zebra                     |                    Zebra to Horse                     |
+| :---------------------------------------------------: | :---------------------------------------------------: |
+| <img src="./image/AGGAN_Horse2Zebra.png" width="400"> | <img src="./image/AGGAN_Zebra2Horse.png" width="400"> |
 
 
 
-### 3. AGGAN
+### 3. StarGAN
 
+**CelebA**
 
+<img src="./image/StarGAN_CelebA.png" width="800">
 
 ## VAE Results
 
 ### 1. VAE
 
+**Reconstruction**
+
+|                        MNIST                        |                        CelebA                        |
+| :-------------------------------------------------: | :--------------------------------------------------: |
+| <img src="./image/VAE_MNIST_Recon.png" width="400"> | <img src="./image/VAE_CelebA_Recon.png" width="400"> |
+
+
+
+**Latent Space Interpolation (MNIST)** 
+
+<img src="./image/VAE_Latent_MNIST.png" width="800">
+
+
+
+**Latent Space Interpolation (CelebA)** 
+
+<img src="./image/VAE_Latent_CelebA.png" width="800">
+
 
 
 ### 2. Beta-VAE
 
+**Latent Space Interpolation: Beta = 10 (CelebA)** 
+
+<img src="./image/betaVAE_10.png" width="800">
+
+
+
+**Latent Space Interpolation: Beta = 200 (CelebA)** 
+
+<img src="./image/betaVAE_200.png" width="800">
+
 
 
 ### 3. VQ-VAE
+
+**Reconstruction (MNIST)** 
+
+|                         Input                          | Reconstruction                                         |
+| :----------------------------------------------------: | ------------------------------------------------------ |
+| <img src="./image/VQ-VAE_Input_MNIST.png" width="400"> | <img src="./image/VQ-VAE_Recon_MNIST.png" width="400"> |
+
+
+
+**Reconstruction (CelebA)** 
+
+|                          Input                          |                     Reconstruction                      |
+| :-----------------------------------------------------: | :-----------------------------------------------------: |
+| <img src="./image/VQ-VAE_Input_CelebA.png" width="400"> | <img src="./image/VQ-VAE_Recon_CelebA.png" width="400"> |
+
+
+
+**PixelCNN Trained Latent Decoding**
+
+|                          MNIST                          |                          CelebA                          |
+| :-----------------------------------------------------: | :------------------------------------------------------: |
+| <img src="./image/VQ-VAE_Decode_MNIST.png" width="400"> | <img src="./image/VQ-VAE_Decode_CelebA.png" width="400"> |
 
 
 
@@ -104,7 +188,7 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 
 ### 1. Raindrop Removal
 
-
+<img src="./image/Raindrop_Removal.png" width="800">
 
 
 
