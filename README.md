@@ -2,6 +2,10 @@
 
 This repository is for implementation of `Generative Models` using [Tensorflow](https://www.tensorflow.org). 
 
+[Description of the Papers (Korean)](https://www.notion.so/Code-Description-53c93afd0b9740728143ffab1b2caa2f)
+
+The structure of the code is based on the [Hwalsuk Lee's Generative Model github repository](https://github.com/hwalsuklee/tensorflow-generative-model-collections)  
+
 
 
 ## Implemented Paper List
@@ -20,6 +24,87 @@ This repository is for implementation of `Generative Models` using [Tensorflow](
 12. [Neural Discrete Representation Learning(VQ-VAE)](https://arxiv.org/abs/1711.00937)
 13. [Adherent Raindrop Removal with Self-Supervised Attention Maps andSpatio-Temporal Generative Adversarial Networks](http://openaccess.thecvf.com/content_ICCVW_2019/papers/ADW/Alletto_Adherent_Raindrop_Removal_with_Self-Supervised_Attention_Maps_and_Spatio-Temporal_Generative_ICCVW_2019_paper.pdf)
 
-14. [beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/forum?id=Sy2fzU9gl)
+14. [Beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/forum?id=Sy2fzU9gl)
 
 15. [HoloGAN: Unsupervised Learning of 3D Representations From Natural Images](https://arxiv.org/abs/1904.01326)
+
+
+
+## GAN Results
+
+#### 1. GAN
+
+**MNIST**
+
+<img src="./image/GAN_MNIST.png" width="350">
+
+
+
+#### 2. DCGAN
+
+|                      MNIST                      |                      CelebA                      |
+| :---------------------------------------------: | :----------------------------------------------: |
+| <img src="./image/DCGAN_MNIST.png" width="400"> | <img src="./image/DCGAN_celebA.png" width="400"> |
+
+
+
+#### 3. LSGAN
+
+
+
+#### 4. WGAN
+
+
+
+#### 5. WGAN-GP
+
+
+
+#### 6. Conditional GAN
+
+
+
+#### 7. InfoGAN
+
+
+
+#### 8. HoloGAN
+
+
+
+## Image-to-Image Translation Results
+
+#### 1. CycleGAN
+
+
+
+#### 2. StarGAN
+
+
+
+#### 3. AGGAN
+
+
+
+## VAE Results
+
+#### 1. VAE
+
+
+
+#### 2. Beta-VAE
+
+
+
+#### 3. VQ-VAE
+
+
+
+## Application Results
+
+#### 1. Raindrop Removal
+
+
+
+
+
