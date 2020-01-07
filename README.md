@@ -44,7 +44,7 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 
 |                      MNIST                      |                      CelebA                      |
 | :---------------------------------------------: | :----------------------------------------------: |
-| <img src="./image/DCGAN_MNIST.png" width="400"> | <img src="./image/DCGAN_celebA.png" width="400"> |
+| <img src="./image/DCGAN_MNIST.png" width="400"> | <img src="./image/DCGAN_CelebA.png" width="400"> |
 
 
 
