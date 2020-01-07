@@ -8,6 +8,14 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 
 
 
+## Contributors
+
+[MMC Lab](http://mmc.hanyang.ac.kr/) GAN Study Group members
+
+- [Kyushik Min](https://github.com/Kyushik), [Gihoon Kim](https://github.com/GihoonKim), [Hyukju Sohn](https://github.com/Hyukju-Sohn), [Yoonyong Ahn](https://github.com/YoonyongAhn), [Seungwon-Choi](https://github.com/seungwon-Choi), [Jongyoon Baek](https://github.com/whd2345)
+
+
+
 ## Implemented Paper List
 
 1. [Auto-Encoding Variational Bayes (VAE)](https://arxiv.org/abs/1312.6114)
