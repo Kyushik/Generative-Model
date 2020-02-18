@@ -36,6 +36,7 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 
 15. [HoloGAN: Unsupervised Learning of 3D Representations From Natural Images](https://arxiv.org/abs/1904.01326)
 
+16. [Multi-mapping Image-to-Image Translation via Learning Disentanglement](https://arxiv.org/pdf/1909.07877.pdf)
 <br>
 
 ## GAN Results
@@ -133,6 +134,12 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 <img src="./image/StarGAN_CelebA.png" width="800">
 
 <br>
+
+### 4. DMIT
+
+**Summer2Winter**
+
+<img src="./image/DMIT.png" width="800">
 
 ## VAE Results
 
