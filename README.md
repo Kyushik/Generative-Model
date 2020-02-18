@@ -138,7 +138,7 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 
 **Summer2Winter
 
-<img src="./image/DMIT_png" width="800">
+<img src="./image/DMIT.png" width="800">
 ## VAE Results
 
 ### 1. VAE
