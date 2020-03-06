@@ -31,13 +31,11 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 11. [Attention-Guided Generative Adversarial Networks for Unsupervised Image-to-Image Translation (AGGAN)](https://arxiv.org/abs/1903.12296)
 12. [Neural Discrete Representation Learning(VQ-VAE)](https://arxiv.org/abs/1711.00937)
 13. [Adherent Raindrop Removal with Self-Supervised Attention Maps andSpatio-Temporal Generative Adversarial Networks](http://openaccess.thecvf.com/content_ICCVW_2019/papers/ADW/Alletto_Adherent_Raindrop_Removal_with_Self-Supervised_Attention_Maps_and_Spatio-Temporal_Generative_ICCVW_2019_paper.pdf)
-
 14. [Beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/forum?id=Sy2fzU9gl)
-
 15. [HoloGAN: Unsupervised Learning of 3D Representations From Natural Images](https://arxiv.org/abs/1904.01326)
-
 16. [DMIT: Multi-mapping Image-to-Image Translation via Learning Disentanglement](https://arxiv.org/pdf/1909.07877.pdf)
-<br>
+17. [Unsupervised Discovery of Interpretable Directions in the GAN Latent Space](https://arxiv.org/abs/2002.03754)
+    <br>
 
 ## GAN Results
 
@@ -140,6 +138,18 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 **Summer2Winter**
 
 <img src="./image/DMIT.png" width="800">
+
+<br>
+
+### 5. Unsupervised Discovery of Interpretable Directions in the GAN Latent Space
+
+#### 1) MNIST
+
+<img src="./image/unsupervised_interpretable_latent.png" width="800">
+
+
+
+<br>
 
 ## VAE Results
 
