@@ -1,6 +1,6 @@
 # Generative Models
 
-This repository is for implementation of `Generative Models` using [Tensorflow](https://www.tensorflow.org). 
+This repository is for implementation of `Generative Models` using [Tensorflow](https://www.tensorflow.org).
 
 [Description of the Papers (Korean)](https://www.notion.so/Code-Description-53c93afd0b9740728143ffab1b2caa2f)
 
@@ -35,6 +35,7 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 15. [HoloGAN: Unsupervised Learning of 3D Representations From Natural Images](https://arxiv.org/abs/1904.01326)
 16. [DMIT: Multi-mapping Image-to-Image Translation via Learning Disentanglement](https://arxiv.org/pdf/1909.07877.pdf)
 17. [Unsupervised Discovery of Interpretable Directions in the GAN Latent Space](https://arxiv.org/abs/2002.03754)
+18. [SinGAN: Learning a Generative Model from a Single Natural Image](https://arxiv.org/pdf/1905.01164.pdf)
     <br>
 
 ## GAN Results
@@ -103,6 +104,25 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 
 <br>
 
+### 9. SinGAN
+
+**Balloon**
+
+<img src="./image/SinGAN_Ballon_1.png" width="600">
+<img src="./image/SinGAN_Ballon_0.png" width="600">
+
+**Mountain**
+
+<img src="./image/SinGAN_Mountain_1.png" width="600">
+<img src="./image/SinGAN_Mountain_0.png" width="600">
+
+**Starry Night**
+
+<img src="./image/SinGAN_Starry_0.png" width="600">
+<img src="./image/SinGAN_Starry_1.png" width="600">
+
+<br>
+
 ## Image-to-Image Translation Results
 
 ### 1. CycleGAN
@@ -163,13 +183,13 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 
 
 
-**Latent Space Interpolation (MNIST)** 
+**Latent Space Interpolation (MNIST)**
 
 <img src="./image/VAE_Latent_MNIST.png" width="800">
 
 
 
-**Latent Space Interpolation (CelebA)** 
+**Latent Space Interpolation (CelebA)**
 
 <img src="./image/VAE_Latent_CelebA.png" width="800">
 
@@ -177,13 +197,13 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 
 ### 2. Beta-VAE
 
-**Latent Space Interpolation: Beta = 10 (CelebA)** 
+**Latent Space Interpolation: Beta = 10 (CelebA)**
 
 <img src="./image/betaVAE_10.png" width="800">
 
 
 
-**Latent Space Interpolation: Beta = 200 (CelebA)** 
+**Latent Space Interpolation: Beta = 200 (CelebA)**
 
 <img src="./image/betaVAE_200.png" width="800">
 
@@ -191,7 +211,7 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 
 ### 3. VQ-VAE
 
-**Reconstruction (MNIST)** 
+**Reconstruction (MNIST)**
 
 |                         Input                          | Reconstruction                                         |
 | :----------------------------------------------------: | ------------------------------------------------------ |
@@ -199,7 +219,7 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 
 
 
-**Reconstruction (CelebA)** 
+**Reconstruction (CelebA)**
 
 |                          Input                          |                     Reconstruction                      |
 | :-----------------------------------------------------: | :-----------------------------------------------------: |
@@ -220,6 +240,3 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 ### 1. Raindrop Removal
 
 <img src="./image/Raindrop_Removal.png" width="800">
-
-
-
