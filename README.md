@@ -1,10 +1,10 @@
 # Generative Models
 
-This repository is for implementation of `Generative Models` using [Tensorflow](https://www.tensorflow.org).
+- This repository is for implementation of `Generative Models` using [Tensorflow](https://www.tensorflow.org) 1.12
 
-[Description of the Papers (Korean)](https://www.notion.so/Code-Description-53c93afd0b9740728143ffab1b2caa2f)
+- [Description of the Papers (Korean)](https://www.notion.so/Code-Description-53c93afd0b9740728143ffab1b2caa2f)
 
-The structure of the code is based on the [Hwalsuk Lee's Generative Model github repository](https://github.com/hwalsuklee/tensorflow-generative-model-collections)  
+- The structure of the code is based on the [Hwalsuk Lee's Generative Model github repository](https://github.com/hwalsuklee/tensorflow-generative-model-collections)  
 
 <br>
 
@@ -16,27 +16,44 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 
 <br>
 
-## Implemented Paper List
+## Implemented Paper List (18 Papers)
+
+### GAN
+
+1. [[GAN] Generative Adversarial Networks](https://arxiv.org/abs/1406.2661)
+2. [[DCGAN] Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks](https://arxiv.org/abs/1511.06434)
+3. [[LSGAN] Least Squares Generative Adversarial Networks](https://arxiv.org/abs/1611.04076)
+4. [[WGAN] Wasserstein GAN](https://arxiv.org/abs/1701.07875)
+5. [[WGAN_GP] Improved Training of Wasserstein GANs](https://arxiv.org/abs/1704.00028)
+6. [[CGAN] Conditional Generative Adversarial Nets](https://arxiv.org/abs/1411.1784)
+7. [[InfoGAN] Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/abs/1606.03657)
+8. [[HoloGAN] Unsupervised Learning of 3D Representations From Natural Images](https://arxiv.org/abs/1904.01326)
+9. [[SinGAN] Learning a Generative Model from a Single Natural Image](https://arxiv.org/pdf/1905.01164.pdf)
+
+### Image-to-Image Translation
+
+1. [[CycleGAN] Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593)
+2. [[AGGAN] Attention-Guided Generative Adversarial Networks for Unsupervised Image-to-Image Translation](https://arxiv.org/abs/1903.12296)
+3. [[StarGAN] Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1711.09020)
+4. [[DMIT] Multi-mapping Image-to-Image Translation via Learning Disentanglement](https://arxiv.org/pdf/1909.07877.pdf)
+
+### Interpretable GAN Latent 
+
+1. [Unsupervised Discovery of Interpretable Directions in the GAN Latent Space](https://arxiv.org/abs/2002.03754)
+
+### VAE 
 
 1. [Auto-Encoding Variational Bayes (VAE)](https://arxiv.org/abs/1312.6114)
-2. [Generative Adversarial Networks (GAN)](https://arxiv.org/abs/1406.2661)
-3. [Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks (DCGAN)](https://arxiv.org/abs/1511.06434)
-4. [Least Squares Generative Adversarial Networks (LSGAN)](https://arxiv.org/abs/1611.04076)
-5. [Wasserstein GAN (WGAN)](https://arxiv.org/abs/1701.07875)
-6. [Improved Training of Wasserstein GANs (WGAN GP)](https://arxiv.org/abs/1704.00028)
-7. [Conditional Generative Adversarial Nets (CGAN)](https://arxiv.org/abs/1411.1784)
-8. [Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets (InfoGAN)](https://arxiv.org/abs/1606.03657)
-9. [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks (CycleGAN)](https://arxiv.org/abs/1703.10593)
-10. [Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation (StarGAN)](https://arxiv.org/abs/1711.09020)
-11. [Attention-Guided Generative Adversarial Networks for Unsupervised Image-to-Image Translation (AGGAN)](https://arxiv.org/abs/1903.12296)
-12. [Neural Discrete Representation Learning(VQ-VAE)](https://arxiv.org/abs/1711.00937)
-13. [Adherent Raindrop Removal with Self-Supervised Attention Maps andSpatio-Temporal Generative Adversarial Networks](http://openaccess.thecvf.com/content_ICCVW_2019/papers/ADW/Alletto_Adherent_Raindrop_Removal_with_Self-Supervised_Attention_Maps_and_Spatio-Temporal_Generative_ICCVW_2019_paper.pdf)
-14. [Beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/forum?id=Sy2fzU9gl)
-15. [HoloGAN: Unsupervised Learning of 3D Representations From Natural Images](https://arxiv.org/abs/1904.01326)
-16. [DMIT: Multi-mapping Image-to-Image Translation via Learning Disentanglement](https://arxiv.org/pdf/1909.07877.pdf)
-17. [Unsupervised Discovery of Interpretable Directions in the GAN Latent Space](https://arxiv.org/abs/2002.03754)
-18. [SinGAN: Learning a Generative Model from a Single Natural Image](https://arxiv.org/pdf/1905.01164.pdf)
-    <br>
+2. [Beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/forum?id=Sy2fzU9gl)
+3. [Neural Discrete Representation Learning(VQ-VAE)](https://arxiv.org/abs/1711.00937)
+
+### Application 
+
+1. [Adherent Raindrop Removal with Self-Supervised Attention Maps andSpatio-Temporal Generative Adversarial Networks](http://openaccess.thecvf.com/content_ICCVW_2019/papers/ADW/Alletto_Adherent_Raindrop_Removal_with_Self-Supervised_Attention_Maps_and_Spatio-Temporal_Generative_ICCVW_2019_paper.pdf)
+
+<br>
+
+# Our Results 
 
 ## GAN Results
 
@@ -161,7 +178,9 @@ The structure of the code is based on the [Hwalsuk Lee's Generative Model github
 
 <br>
 
-### 5. Unsupervised Discovery of Interpretable Directions in the GAN Latent Space
+## Interpretable GAN Latent
+
+### 1. Unsupervised Discovery of Interpretable Directions in the GAN Latent Space
 
 #### 1) MNIST
 
