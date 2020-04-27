@@ -144,19 +144,21 @@
 ### 10. PGGAN
 **Cherry picked images**
 
-<img src="./image/PGGAN_03.png" width="100"><img src="./image/PGGAN_04.png" width="100"><img src="./image/PGGAN_07.png" width="100"><img src="./image/PGGAN_21.png" width="100"><img src="./image/PGGAN_13.png" width="100"><img src="./image/PGGAN_17.png" width="100"><img src="./image/PGGAN_01.png" width="100">
+<img src="./image/PGGAN_03.png" width="200"><img src="./image/PGGAN_04.png" width="200"><img src="./image/PGGAN_07.png" width="200">
+<img src="./image/PGGAN_21.png" width="200"><img src="./image/PGGAN_13.png" width="200"><img src="./image/PGGAN_17.png" width="200">
+<img src="./image/PGGAN_01.png" width="200"><img src="./image/PGGAN_10.png" width="200"><img src="./image/PGGAN_18.png" width="200">
 
 **Latent interpolation**
 
-<img src="./image/PGGAN_inter.png" width="700">
+<img src="./image/PGGAN_inter.png" width="600">
 
 **Fixed latent**
 
-<img src="./image/PGGAN_latent.gif" width="500">
+<img src="./image/PGGAN_latent.gif" width="600">
 
 **No cherry picked images**
 
-<img src="./image/PGGAN_NC.png" width="500">
+<img src="./image/PGGAN_NC.png" width="600">
 <br>
 
 ## Image-to-Image Translation Results
