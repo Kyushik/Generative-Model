@@ -142,8 +142,11 @@
 <br>
 
 ### 10. PGGAN
+
 It took about 2 weeks on TITAN RTX and trained 600k images per stage.
+
 ####1024x1024 images
+
 **Cherry picked images**
 
 <img src="./image/PGGAN_03.png" width="200"><img src="./image/PGGAN_04.png" width="200"><img src="./image/PGGAN_07.png" width="200"><img src="./image/PGGAN_21.png" width="200">
