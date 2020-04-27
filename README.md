@@ -144,9 +144,9 @@
 ### 10. PGGAN
 **Cherry picked images**
 
-<img src="./image/PGGAN_03.png" width="200"><img src="./image/PGGAN_04.png" width="200"><img src="./image/PGGAN_07.png" width="200">
-<img src="./image/PGGAN_21.png" width="200"><img src="./image/PGGAN_13.png" width="200"><img src="./image/PGGAN_17.png" width="200">
-<img src="./image/PGGAN_01.png" width="200"><img src="./image/PGGAN_10.png" width="200"><img src="./image/PGGAN_18.png" width="200">
+<img src="./image/PGGAN_03.png" width="200"><img src="./image/PGGAN_04.png" width="200"><img src="./image/PGGAN_07.png" width="200"><img src="./image/PGGAN_21.png" width="200">
+<img src="./image/PGGAN_13.png" width="200"><img src="./image/PGGAN_17.png" width="200"><img src="./image/PGGAN_01.png" width="200"><img src="./image/PGGAN_10.png" width="200">
+<img src="./image/PGGAN_18.png" width="200"><img src="./image/PGGAN_20.png" width="200"><img src="./image/PGGAN_02.png" width="200"><img src="./image/PGGAN_19.png" width="200">
 
 **Latent interpolation**
 
