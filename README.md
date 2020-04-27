@@ -143,15 +143,19 @@
 
 ### 10. PGGAN
 **Cherry picked images**
+
 <img src="./image/PGGAN_03.png" width="100"><img src="./image/PGGAN_04.png" width="100"><img src="./image/PGGAN_07.png" width="100"><img src="./image/PGGAN_21.png" width="100"><img src="./image/PGGAN_13.png" width="100"><img src="./image/PGGAN_17.png" width="100"><img src="./image/PGGAN_01.png" width="100">
-\
+
 **Latent interpolation**
+
 <img src="./image/PGGAN_inter.png" width="700">
-\
+
 **Fixed latent**
+
 <img src="./image/PGGAN_latent.gif" width="500">
-\
+
 **No cherry picked images**
+
 <img src="./image/PGGAN_NC.png" width="500">
 <br>
 
