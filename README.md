@@ -145,7 +145,7 @@
 
 It took about 2 weeks on TITAN RTX and trained 600k images per stage.
 
-####1024x1024 images
+#### 1024x1024 images
 
 **Cherry picked images**
 
