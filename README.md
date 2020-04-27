@@ -16,7 +16,7 @@
 
 <br>
 
-## Implemented Paper List (18 Papers)
+## Implemented Paper List (19 Papers)
 
 ### GAN
 
@@ -29,6 +29,7 @@
 7. [[InfoGAN] Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets](https://arxiv.org/abs/1606.03657)
 8. [[HoloGAN] Unsupervised Learning of 3D Representations From Natural Images](https://arxiv.org/abs/1904.01326)
 9. [[SinGAN] Learning a Generative Model from a Single Natural Image](https://arxiv.org/pdf/1905.01164.pdf)
+10. [[PGGAN] Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/pdf/1710.10196.pdf)
 
 ### Image-to-Image Translation
 
@@ -37,23 +38,23 @@
 3. [[StarGAN] Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://arxiv.org/abs/1711.09020)
 4. [[DMIT] Multi-mapping Image-to-Image Translation via Learning Disentanglement](https://arxiv.org/pdf/1909.07877.pdf)
 
-### Interpretable GAN Latent 
+### Interpretable GAN Latent
 
 1. [Unsupervised Discovery of Interpretable Directions in the GAN Latent Space](https://arxiv.org/abs/2002.03754)
 
-### VAE 
+### VAE
 
 1. [Auto-Encoding Variational Bayes (VAE)](https://arxiv.org/abs/1312.6114)
 2. [Beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](https://openreview.net/forum?id=Sy2fzU9gl)
 3. [Neural Discrete Representation Learning(VQ-VAE)](https://arxiv.org/abs/1711.00937)
 
-### Application 
+### Application
 
 1. [Adherent Raindrop Removal with Self-Supervised Attention Maps andSpatio-Temporal Generative Adversarial Networks](http://openaccess.thecvf.com/content_ICCVW_2019/papers/ADW/Alletto_Adherent_Raindrop_Removal_with_Self-Supervised_Attention_Maps_and_Spatio-Temporal_Generative_ICCVW_2019_paper.pdf)
 
 <br>
 
-# Our Results 
+# Our Results
 
 ## GAN Results
 
@@ -138,6 +139,31 @@
 <img src="./image/SinGAN_Starry_0.png" width="600">
 <img src="./image/SinGAN_Starry_1.png" width="600">
 
+<br>
+
+### 10. PGGAN
+
+It took about 2 weeks on TITAN RTX and trained 600k images per stage.
+
+#### 1024x1024 images
+
+**Cherry picked images**
+
+<img src="./image/PGGAN_03.png" width="200"><img src="./image/PGGAN_04.png" width="200"><img src="./image/PGGAN_07.png" width="200"><img src="./image/PGGAN_21.png" width="200">
+<img src="./image/PGGAN_13.png" width="200"><img src="./image/PGGAN_17.png" width="200"><img src="./image/PGGAN_01.png" width="200"><img src="./image/PGGAN_10.png" width="200">
+<img src="./image/PGGAN_18.png" width="200"><img src="./image/PGGAN_20.png" width="200"><img src="./image/PGGAN_02.png" width="200"><img src="./image/PGGAN_19.png" width="200">
+
+**Latent interpolation**
+
+<img src="./image/PGGAN_inter.png" width="800">
+
+**Fixed latent**
+
+<img src="./image/PGGAN_latent.gif" width="800">
+
+**No cherry picked images**
+
+<img src="./image/PGGAN_NC.png" width="800">
 <br>
 
 ## Image-to-Image Translation Results
