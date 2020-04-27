@@ -16,7 +16,7 @@
 
 <br>
 
-## Implemented Paper List (18 Papers)
+## Implemented Paper List (19 Papers)
 
 ### GAN
 
