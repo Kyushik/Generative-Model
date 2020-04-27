@@ -150,15 +150,15 @@
 
 **Latent interpolation**
 
-<img src="./image/PGGAN_inter.png" width="600">
+<img src="./image/PGGAN_inter.png" width="800">
 
 **Fixed latent**
 
-<img src="./image/PGGAN_latent.gif" width="600">
+<img src="./image/PGGAN_latent.gif" width="800">
 
 **No cherry picked images**
 
-<img src="./image/PGGAN_NC.png" width="600">
+<img src="./image/PGGAN_NC.png" width="800">
 <br>
 
 ## Image-to-Image Translation Results
