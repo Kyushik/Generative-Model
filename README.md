@@ -16,7 +16,7 @@
 
 <br>
 
-## Implemented Paper List (19 Papers)
+## Implemented Paper List (20 Papers)
 
 ### GAN
 
@@ -30,6 +30,7 @@
 8. [[HoloGAN] Unsupervised Learning of 3D Representations From Natural Images](https://arxiv.org/abs/1904.01326)
 9. [[SinGAN] Learning a Generative Model from a Single Natural Image](https://arxiv.org/pdf/1905.01164.pdf)
 10. [[PGGAN] Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://arxiv.org/pdf/1710.10196.pdf)
+11. [[StyleGAN] A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/pdf/1812.04948.pdf)
 
 ### Image-to-Image Translation
 
@@ -165,6 +166,25 @@ It took about 2 weeks on TITAN RTX and trained 600k images per stage.
 
 <img src="./image/PGGAN_NC.png" width="800">
 <br>
+
+### 11. StyleGAN
+
+#### 512x512 images
+
+**Selected images**
+
+<img src="./image/StyleGAN_selected_result.png" width="800">
+
+**Style Mixing with Latent Codes**
+
+<img src="./image/StyleGAN_selected_style.png" width="800">
+
+**Random Images**
+
+<img src="./image/StyleGAN_random_result.png" width="800">
+<br>
+
+
 
 ## Image-to-Image Translation Results
 
