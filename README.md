@@ -169,7 +169,7 @@ It took about 2 weeks on TITAN RTX and trained 600k images per stage.
 
 ### 11. StyleGAN
 
-#### 512x512 images
+#### CelebA HQ (512x512 images)
 
 **Selected images**
 
@@ -182,6 +182,21 @@ It took about 2 weeks on TITAN RTX and trained 600k images per stage.
 **Random Images**
 
 <img src="./image/StyleGAN_random_result.png" width="800">
+<br>
+
+#### AFHQ (512x512 images)
+
+**Selected images**
+
+<img src="./image/StyleGAN_AFHQ_selected_result.png" width="800">
+
+**Style Mixing with Latent Codes**
+
+<img src="./image/StyleGAN_AFHQ_selected_style.png" width="800">
+
+**Random Images**
+
+<img src="./image/StyleGAN_AFHQ_random_result.png" width="800">
 <br>
 
 
